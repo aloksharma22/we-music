@@ -1,0 +1,8 @@
+{
+  "name": "Remix we-music",
+  "description": "Private community music streaming platform with ad-free listening, zero-egress Cloudflare R2 storage, Google OAuth authentication, and offline PWA playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
